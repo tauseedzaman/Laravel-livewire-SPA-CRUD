@@ -25,7 +25,7 @@ open terminal or cmd and type:
 12. you are good to go
 
 ## Demo
-<img src="demo/image1.png" width="100%" /> <br />
+<img src="demo/image2.png" width="100%" /> <br />
 <img src="demo/image1.png" width="100%" /> <br />
 
 ## Contributing
